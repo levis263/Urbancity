@@ -1,0 +1,6 @@
+data
+.env
+enviro/
+.astro
+airflow_settings.yml
+credentials.sh
