@@ -46,7 +46,8 @@ def upload_data():
 
     return None
 
-upload_data()
+if __name__ == "__main__":
+    upload_data()
 
 
 
