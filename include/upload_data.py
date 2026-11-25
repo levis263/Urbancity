@@ -46,7 +46,7 @@ def upload_data():
 
     return None
 
-#upload_data()
+upload_data()
 
 
 

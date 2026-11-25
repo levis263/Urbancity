@@ -2,3 +2,5 @@ data/servicedata.csv
 .env
 credentials.sh
 data/servicedata.csv
+__pycache__/
+*.pyc
